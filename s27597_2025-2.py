@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 from Bio import Entrez, SeqIO
 import pandas as pd
 import matplotlib.pyplot as plt
